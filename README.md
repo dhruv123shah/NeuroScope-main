@@ -83,8 +83,8 @@ document every significant choice — and the alternatives that were rejected.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/DhruvShah/NeuroScope.git
-cd NeuroScope
+git clone https://github.com/dhruv123shah/NeuroScope-main.git
+cd NeuroScope-main
 
 python -m venv .venv
 .venv\Scripts\Activate.ps1          # Windows (macOS/Linux: source .venv/bin/activate)
@@ -223,7 +223,7 @@ lint → format → tests → coverage gate (70% floor, currently 92%).
 
 ## 👤 Author
 
-**Dhruv Shah** — [GitHub](https://github.com/DhruvShah)
+**Dhruv Shah** — [GitHub](https://github.com/dhruv123shah) · [LinkedIn](https://www.linkedin.com/in/dhruv-shah-10ad/)
 
 ## 📄 License
 

@@ -178,7 +178,7 @@ st.markdown(
 <br>
 <div style="text-align:center;color:#475569;font-size:.8rem;">
     Built by <strong style="color:#00d4ff;">Dhruv Shah</strong> &nbsp;·&nbsp;
-    <a href="https://github.com/DhruvShah" style="color:#00d4ff;text-decoration:none;">GitHub</a>
+    <a href="https://github.com/dhruv123shah/NeuroScope-main" style="color:#00d4ff;text-decoration:none;">GitHub</a>
     &nbsp;·&nbsp; MIT License
 </div>
 """,

@@ -82,7 +82,7 @@ and in CI without a browser.
 ## 3. Project Layout
 
 ```text
-predict-segment-app/
+NeuroScope-main/
 ├── app.py                      # Entry: global CSS + st.navigation
 ├── pages/                      # One file per Streamlit page
 │   ├── overview.py             # Hero, KPIs, donut, correlation heatmap
@@ -118,8 +118,8 @@ predict-segment-app/
 ## 4. Getting Started
 
 ```bash
-git clone https://github.com/SidSadhu/predict-segment-app.git
-cd predict-segment-app
+git clone https://github.com/dhruv123shah/NeuroScope-main.git
+cd NeuroScope-main
 
 python -m venv .venv
 # Windows: .venv\Scripts\Activate.ps1   macOS/Linux: source .venv/bin/activate

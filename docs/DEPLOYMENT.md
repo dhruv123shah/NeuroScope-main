@@ -12,14 +12,14 @@ Free, zero-config for Streamlit apps, and it redeploys on every push to the trac
 branch.
 
 ### A1. Prerequisites
-- The repo on GitHub (e.g., `DhruvShah/NeuroScope`), with the `main` branch containing
+- The repo on GitHub (e.g., `dhruv123shah/NeuroScope-main`), with the `main` branch containing
   `app.py`, `requirements.txt`, and `pages/`.
 - (Optional) A free Groq key from [console.groq.com](https://console.groq.com/) for
   live AI insights — the app runs in mock mode without it.
 
 ### A2. Deploy (one-time, ~5 minutes)
 1. Sign in to [share.streamlit.io](https://share.streamlit.io) with GitHub.
-2. **Create app** → paste the repo (`DhruvShah/NeuroScope`).
+2. **Create app** → paste the repo (`dhruv123shah/NeuroScope-main`).
 3. Settings:
    - **Main file path:** `app.py`
    - **Branch:** `main`
